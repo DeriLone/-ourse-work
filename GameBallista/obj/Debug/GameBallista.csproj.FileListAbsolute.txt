@@ -1,0 +1,11 @@
+C:\Users\Никита\source\repos\GameBallista\GameBallista\bin\Debug\GameBallista.exe.config
+C:\Users\Никита\source\repos\GameBallista\GameBallista\bin\Debug\GameBallista.exe
+C:\Users\Никита\source\repos\GameBallista\GameBallista\bin\Debug\GameBallista.pdb
+C:\Users\Никита\source\repos\GameBallista\GameBallista\obj\Debug\GameBallista.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\GameBallista\GameBallista\obj\Debug\GameBallista.Properties.Resources.resources
+C:\Users\Никита\source\repos\GameBallista\GameBallista\obj\Debug\GameBallista.csproj.GenerateResource.cache
+C:\Users\Никита\source\repos\GameBallista\GameBallista\obj\Debug\GameBallista.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\GameBallista\GameBallista\obj\Debug\GameBallista.exe
+C:\Users\Никита\source\repos\GameBallista\GameBallista\obj\Debug\GameBallista.pdb
+C:\Users\Никита\source\repos\GameBallista\GameBallista\obj\Debug\GameBallista.Form1.resources
+C:\Users\Никита\source\repos\GameBallista\GameBallista\obj\Debug\GameBallista.Resource1.resources
